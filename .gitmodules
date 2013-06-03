@@ -1,0 +1,9 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/frcsimulator/library.git
+[submodule "wpilibj"]
+	path = wpilibj
+	url = https://github.com/frcsimulator/wpilibj.git
+[submodule "client"]
+	path = client
+	url = https://github.com/frcsimulator/client.git
